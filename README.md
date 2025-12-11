@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @unneal
-- 👀 I’m interested in ... Machine Learning, Data Science, Data Analytics and iOS App Development
-- 🌱 I’m currently learning ... ML (through a few online courses), Data Analytics (Tableau online) and SWIFT (on an iPad)
-- 💞️ I’m looking to collaborate on ... ML and SWIFT related projects.
-- 📫 How to reach me ... https://www.twitter.com/anilnotanneal
+- 👀 I’m a Cybersecurity grad with research interests in Cryptography, Wireless & Mobile Systems Security, and Cloud Security
+- 🌱 I’m currently ... working as a Cybersecurity Analyst at Community Dreams Foundation
+- 💞️ I’m looking to collaborate on ... projects in/adjacent to my research interests
+- 📫 How to reach me ... https://www.twitter.com/anilnotanneal or anilnotanneal@gmail.com
 
 <!---
 unneal/unneal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
