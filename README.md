@@ -31,7 +31,7 @@ Pen-tested 80+ API endpoints; automated security-findings integration into CI/CD
 
 ## 📂 Featured Projects
 
-#### 🛰️ Cyber-Physical Risk Assessment of the MBTA Green Line
+#### 🛰️ Evaluation of Risk and Resilience of the Massachusetts Bay Transportation Authority's Green Rapid Transit Line
 *Published on arXiv (Dec 2025)* — Used Model-Based Risk Analysis (MBRA) and graph-theoretic network centrality to pinpoint five critical vulnerabilities in the MBTA Green Line's cyber-physical infrastructure, covering a system serving 100,000+ daily riders.
 
 #### 📡 Wireless Systems Penetration Testing & Reverse Engineering
