@@ -18,7 +18,7 @@ I build and break systems — securing cloud infrastructure by day, digging into
 
 ## 💼 Experience
 
-**Cybersecurity Analyst**, Community Dreams Foundation — *10/2025–Present*
+**Cybersecurity Analyst**, Community Dreams Foundation — *10/2025–07/2026*
 SOC monitoring and incident response across cloud environments; hardened infrastructure with Terraform IaC (KMS encryption, TLS enforcement, VPC segmentation) aligned to CIS Benchmarks and NIST CSF; built IR playbooks and SOPs for audit-ready operations.
 
 **Security Analyst**, Mobile Heartbeat — *01/2025–04/2025*
@@ -31,7 +31,7 @@ Pen-tested 80+ API endpoints; automated security-findings integration into CI/CD
 
 ## 📂 Featured Projects
 
-#### 🛰️ Evaluation of Risk and Resilience of the Massachusetts Bay Transportation Authority's Green Rapid Transit Line
+#### 🛰️ Evaluation of Risk and Resilience of the MBTA Green Rapid Transit System
 *Published on arXiv (Dec 2025)* — Used Model-Based Risk Analysis (MBRA) and graph-theoretic network centrality to pinpoint five critical vulnerabilities in the MBTA Green Line's cyber-physical infrastructure, covering a system serving 100,000+ daily riders.
 
 #### 📡 Wireless Systems Penetration Testing & Reverse Engineering
