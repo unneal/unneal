@@ -32,7 +32,7 @@ Pen-tested 80+ API endpoints; automated security-findings integration into CI/CD
 ## 📂 Featured Projects
 
 #### 🛰️ Evaluation of Risk and Resilience of the MBTA Green Rapid Transit System
-*Published on arXiv (Dec 2025)* — Used Model-Based Risk Analysis (MBRA) and graph-theoretic network centrality to pinpoint five critical vulnerabilities in the MBTA Green Line's cyber-physical infrastructure, covering a system serving 100,000+ daily riders.
+*Pre-print on arXiv (Dec 2025)* — Used Model-Based Risk Analysis (MBRA) and graph-theoretic network centrality to pinpoint five critical vulnerabilities in the MBTA Green Line's cyber-physical infrastructure, covering a system serving 100,000+ daily riders.
 
 #### 📡 Wireless Systems Penetration Testing & Reverse Engineering
 Reverse-engineered a 433.95 MHz device using PlutoSDR/GNU Radio, analyzed 1,200+ RF bursts, and simulated replay attacks across 15 IoT devices.
